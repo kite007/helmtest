@@ -3,7 +3,7 @@ entries:
   nginx-std:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-02T11:07:36.920895+09:00"
+    created: "2021-10-02T11:17:52.703706+09:00"
     description: A Helm chart for Kubernetes
     digest: 86b8ec93eadfbd0553315d6b514ee88861e53b49c86571c0eb424146b99fd535
     name: nginx-std
@@ -14,7 +14,7 @@ entries:
   redis:
   - apiVersion: v1
     appVersion: 5.0.7
-    created: "2021-10-02T11:07:36.923796+09:00"
+    created: "2021-10-02T11:17:52.706588+09:00"
     deprecated: true
     description: DEPRECATED Open source, advanced key-value store. It is often referred
       to as a data structure server since keys can contain strings, hashes, lists,
@@ -32,4 +32,4 @@ entries:
     urls:
     - redis-10.5.7.tgz
     version: 10.5.7
-generated: "2021-10-02T11:07:36.920235+09:00"
+generated: "2021-10-02T11:17:52.70312+09:00"
